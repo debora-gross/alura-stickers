@@ -12,3 +12,9 @@
 * Graphics2D;
 * InputStream;
 * REGEX para URL da imagem.
+
+## Aula 3
+* API da NASA;
+* Refatoração código;
+* Utilização de Interface;
+* Trabalhando com abstração.
