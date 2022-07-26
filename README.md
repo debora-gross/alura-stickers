@@ -1,5 +1,5 @@
 # alura-stickers
- ImersãoJava da Alura utilizando APIs. #imersaojava @AluraOlnine
+ ImersãoJava da Alura utilizando APIs. #imersaojava @AluraOnline
 
 ## Aula 1
 * API de Filmes IMDB;
